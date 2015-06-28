@@ -1,4 +1,4 @@
-# Algotithms for Leetcode
+# Algorithms for Leetcode
 
 This book presents answers for algorithms question in Leetcode.
 
