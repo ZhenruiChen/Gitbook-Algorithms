@@ -1,4 +1,6 @@
 * [Getting Started](Getting-Started/README.md)
  - [LeetCode](Getting-Started/leetcode.md)
-
- 
+* [Math](Classification/Math.md)
+ - [P223 Rectangle Area](Answers/223.md)
+* [Tree](Classification/Tree.md)
+ - [P226 Invert Binary Tree](Answers/226.md)
